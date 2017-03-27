@@ -1,3 +1,8 @@
 ﻿This is another text file.
 A master change
-A four five six
+This is another text file.
+A blue change
+A one
+A two
+A three
+A four five six.
