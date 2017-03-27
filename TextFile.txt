@@ -3,3 +3,4 @@ A master change
 This is another text file.
 A blue change
 A one
+A two
