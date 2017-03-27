@@ -1,2 +1,3 @@
 ﻿This is another text file.
 A master change
+A four five six
