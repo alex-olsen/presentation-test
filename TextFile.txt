@@ -1,2 +1,4 @@
 ﻿This is another text file.
+A master change
+This is another text file.
 A blue change
