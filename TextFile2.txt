@@ -1,5 +1,7 @@
 This is a test. bro!!
 Green Feature in file 2.
 Green Feature2 in file 2.
+Computer 2 is making a commit!
+Green Feature2 in file 2.
 Blue Feature.
 rebase feature
